@@ -116,7 +116,7 @@ textarea {
   border-radius: 4px;
 }
 
-button {
+.contact button {
   width: fit-content;
   padding: 10px 20px;
   background-color: #1f3f40;
@@ -125,4 +125,9 @@ button {
   border-radius: 4px;
   font-weight: bold;
   cursor: pointer;
+}
+footer {
+  text-align: center;
+  padding: 15px;
+  background-color: #a6c8c2;
 }
